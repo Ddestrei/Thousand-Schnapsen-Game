@@ -1,0 +1,5 @@
+package enums;
+
+public enum Pairs {
+	PIK_DISPATCH,CARO_DISPATCH,TREFL_DISPATCH,KIER_DISPATCH,NULL_DISPATCH;
+}
