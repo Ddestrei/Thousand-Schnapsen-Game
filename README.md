@@ -6,3 +6,4 @@ This informations are visible for server creator.
 Tha game alwais is close when a connection will been lose. 
 You can play in three type of gameplay: Two player, Three player. Four player. 
 The game is close when after the end.
+To create this game i used a javafx 1.8.
